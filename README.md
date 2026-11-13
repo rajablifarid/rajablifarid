@@ -12,7 +12,6 @@
 
 * 🔭 I’m a Cybersecurity-focused IT Specialist passionate about **blue team defense, network security, and threat detection**.
 * 🛡️ I enjoy analyzing traffic, understanding attacker techniques, and securing systems against modern threats.
-* 🎓 Currently studying **Master of Business Administration - MBA, Management** at Azerbaijan State University of Economics (UNEC).
 * 🌱 I’m currently learning and practicing on **Hack The Box**.
 * 💬 Ask me about **#Cybersecurity** and **#BlueTeam**.
 
